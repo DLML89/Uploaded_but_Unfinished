@@ -1,0 +1,11 @@
+math
+pandas
+yfinance
+numpy
+matplotlib
+seaborn
+tensorflow
+scikit-learn
+os
+pymysql
+sqlalchemy
